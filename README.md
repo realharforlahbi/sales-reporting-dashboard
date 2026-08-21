@@ -37,4 +37,4 @@ This project automates monthly sales reporting for a fictional company, **Verdan
 Microsoft Excel (Tables, PivotTables, PivotCharts, Slicers, DAX-free formulas)
 
 ## Author
-Afolabi S. Adedeji
+Samuel A. Adedeji
